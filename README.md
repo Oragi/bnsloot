@@ -1,2 +1,2 @@
-# bnsloot.github.io
+# bnsloot
 GitHub Pages testing
